@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://deploy.workers.cloudflare.com/?url=https://github.com/cocojojo5213/mykeys">
+  <a href="https://deploy.workers.cloudflare.com/?url=https://github.com/ethfans/mykeys">
     <img src="https://deploy.workers.cloudflare.com/button" alt="Deploy to Cloudflare Workers">
   </a>
 </p>
